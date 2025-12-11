@@ -6,11 +6,9 @@ A clean, professional, interactive dashboard for retail sales analysis using Pyt
 ![Project Structure](images/folderdashboard.png)
 
 ## Dashboard Screenshots
-### KPI Overview
 ![Dashboard Overview](images/retailsalesdashboard.png)
 
-### Interactive Charts
-![Dashboard Tabs](images/dashboard_tabs.png)
+
 
 ## Features
 - KPI Cards (Total Sales, Total Profit, Avg Order Value, Profit Margin, Total Orders)
@@ -27,4 +25,5 @@ A clean, professional, interactive dashboard for retail sales analysis using Pyt
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
+
 
